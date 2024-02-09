@@ -1,16 +1,21 @@
-import _Lazy from "@ricokahler/lazy";
+import _Lazy from '@ricokahler/lazy'
 
 /**
  * @public
  */
-export const Lazy = _Lazy;
+export const Lazy = _Lazy
 
 /**
  * @public
  */
-export const drip = "drop";
+export const drip = 'drop'
 
 /**
  * @public
  */
-export const beep = "boop";
+export const beep = 'boop'
+
+/**
+ * @public
+ */
+export const boop = 'beep'

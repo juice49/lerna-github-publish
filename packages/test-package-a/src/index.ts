@@ -35,4 +35,9 @@ export const beep = 'boop'
  */
 export const flip = 'flop'
 
+/**
+ * @public
+ */
+export const boop = 'beep'
+
 export { darken }
